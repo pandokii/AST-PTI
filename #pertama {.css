@@ -1,0 +1,16 @@
+#pertama {
+            color: red;
+            text-align: center;
+        }
+
+        .kedua {
+            color: blue;
+        }
+
+        .content {
+            border: 1px solid black;
+            border-radius: 13px;
+            background-image: url(https://amhsnewspaper.com/85550/ae/analysis-of-the-67-characters/);
+            background-size: cover;
+            height: 500px;
+        }
